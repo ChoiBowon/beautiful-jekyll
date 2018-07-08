@@ -342,7 +342,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -444,6 +444,7 @@ footer .theme-by {
   position: relative;
 }
 .intro-header.big-img {
+  background-image: url(/img/big-imgs/toystory.jpeg);
   background: no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -530,7 +531,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 70px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
